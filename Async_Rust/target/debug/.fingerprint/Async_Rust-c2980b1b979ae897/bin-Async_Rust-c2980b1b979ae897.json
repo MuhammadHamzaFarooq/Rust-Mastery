@@ -1,0 +1,1 @@
+{"rustc":17444072189324216992,"features":"[]","target":8053452895716526185,"profile":14996655781355331481,"path":1036222786711178230,"deps":[[8451309580976820528,"futures",false,17254235241893276734]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/Async_Rust-c2980b1b979ae897/dep-bin-Async_Rust-c2980b1b979ae897"}}],"rustflags":[],"metadata":8484661132984429914}
