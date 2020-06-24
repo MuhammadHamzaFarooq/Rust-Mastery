@@ -1,5 +1,7 @@
 use std::io;
 use RustCalculator_Library::arthimatic_operation::*;
+use RustCalculator_Library::arthimatic_operation::power_functions::*;
+
 
 fn main()
 {
@@ -36,6 +38,19 @@ fn main()
       let reminder = moduls(int_input1,int_input2);
       println!("reminder is : {}",reminder);
 
+      // 6  - Calling cube function
+      let c3 = cube(int_input1);
+      println!("cube is : {}",c3);
+
+      // 7 - Calling  square function
+      let s4 = square(int_input1);
+      println!("square is : {}",s4);
+
+      //8 - Calling pow function
+      let parse_u32 = int_input1 as u32;
+      let parse1_u32 = int_input1 as u32;
+      let power = pow(parse_u32, parse_u32);
+      println!("power is : {}",power);
 
 }
 
