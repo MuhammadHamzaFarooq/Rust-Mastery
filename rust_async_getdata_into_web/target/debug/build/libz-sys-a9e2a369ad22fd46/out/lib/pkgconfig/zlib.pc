@@ -1,0 +1,13 @@
+prefix=/home/web-developer/Documents/Learn-Rust/rust_async_getdata_into_web/target/debug/build/libz-sys-a9e2a369ad22fd46/out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
