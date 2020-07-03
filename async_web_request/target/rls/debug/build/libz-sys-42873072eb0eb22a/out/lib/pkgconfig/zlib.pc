@@ -1,0 +1,13 @@
+prefix=/home/web-developer/Documents/PIAIC IOT FACULTY TEST PRPRATION CODE/async_web_request/target/rls/debug/build/libz-sys-42873072eb0eb22a/out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
