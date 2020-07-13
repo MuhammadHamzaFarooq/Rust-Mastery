@@ -1,0 +1,1 @@
+/home/web-developer/Documents/PIAIC\ IOT\ FACULTY\ TEST\ PRPRATION\ CODE/dangeLifetime/target/debug/dangeLifetime: /home/web-developer/Documents/PIAIC\ IOT\ FACULTY\ TEST\ PRPRATION\ CODE/dangeLifetime/src/main.rs

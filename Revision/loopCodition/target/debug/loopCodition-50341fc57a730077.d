@@ -1,0 +1,1 @@
+/home/web-developer/Documents/PIAIC\ IOT\ FACULTY\ TEST\ PRPRATION\ CODE/loopCodition/target/debug/loopCodition-50341fc57a730077: /home/web-developer/Documents/PIAIC\ IOT\ FACULTY\ TEST\ PRPRATION\ CODE/loopCodition/src/main.rs

@@ -1,0 +1,1 @@
+/home/web-developer/Documents/PIAIC\ IOT\ FACULTY\ TEST\ PRPRATION\ CODE/errorhandling/target/debug/errorhandling: /home/web-developer/Documents/PIAIC\ IOT\ FACULTY\ TEST\ PRPRATION\ CODE/errorhandling/src/main.rs
