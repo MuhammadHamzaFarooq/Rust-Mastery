@@ -1,0 +1,11 @@
+/home/web-developer/Documents/Learn-Rust/reqest/target/rls/debug/deps/indexmap-a2a35b25256c0e99.rmeta: /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/lib.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/macros.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/equivalent.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/mutable_keys.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/util.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/map.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/set.rs
+
+/home/web-developer/Documents/Learn-Rust/reqest/target/rls/debug/deps/indexmap-a2a35b25256c0e99.d: /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/lib.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/macros.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/equivalent.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/mutable_keys.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/util.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/map.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/set.rs
+
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/lib.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/macros.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/equivalent.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/mutable_keys.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/util.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/map.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.4.0/src/set.rs:
