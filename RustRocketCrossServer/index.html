@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rocket Form</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+
+</head>
+
+<body>
+    <script>
+        $(document).ready(function() {
+            BindTable();
+            $("#btnSend").click(function() {
+                $.ajax({
+                    url: "http://0.0.0.0:8000/add", //required for personal ip
+                    type: "POST",
+                    data: JSON.stringify({
+                        "id": 01,
+                        "contents": $('#student').val()
+                    }),
+                });
+            });
+        });
+
+        function BindTable() {
+
+            $.ajax({
+                type: "GET",
+                url: "http://0.0.0.0:8000/", //required for personal ip
+                success: function(msg) {;
+                    $.each(msg, function(index) {
+                        var row = '<tr><td> ' + msg[index].id + ' </td> <td> ' + msg[index].name + ' </td></tr>';
+                        $("#tbDetails").append(row);
+                        console.log(msg);
+                    });
+                }
+            });
+
+        }
+    </script>
+    <label for="student">Add student</label> <input id="student" name="student" type="text" value="" /> <input id="btnSend" type="button" value="Send" />
+    <table id="tbDetails" border="1" cellpadding="2">
+
+        <tr>
+
+            <td>ID</td>
+            <td>Name</td>
+        </tr>
+
+        <tbody>
+        </tbody>
+    </table>
+
+</body>
+
+</html>

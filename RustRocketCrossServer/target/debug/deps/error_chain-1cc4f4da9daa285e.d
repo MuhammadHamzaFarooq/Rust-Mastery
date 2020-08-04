@@ -1,0 +1,10 @@
+/home/web-developer/Documents/Learn-JavaScript/test_api/target/debug/deps/error_chain-1cc4f4da9daa285e.rmeta: /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/lib.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/impl_error_chain_kind.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/error_chain.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/quick_main.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/backtrace.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/example_generated.rs
+
+/home/web-developer/Documents/Learn-JavaScript/test_api/target/debug/deps/error_chain-1cc4f4da9daa285e.d: /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/lib.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/impl_error_chain_kind.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/error_chain.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/quick_main.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/backtrace.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/example_generated.rs
+
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/lib.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/impl_error_chain_kind.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/error_chain.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/quick_main.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/backtrace.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.3/src/example_generated.rs:

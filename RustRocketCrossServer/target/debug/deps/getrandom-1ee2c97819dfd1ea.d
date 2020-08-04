@@ -1,0 +1,11 @@
+/home/web-developer/Documents/Learn-JavaScript/test_api/target/debug/deps/getrandom-1ee2c97819dfd1ea.rmeta: /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs
+
+/home/web-developer/Documents/Learn-JavaScript/test_api/target/debug/deps/getrandom-1ee2c97819dfd1ea.d: /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs
+
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs:
