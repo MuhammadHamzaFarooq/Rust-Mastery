@@ -1,0 +1,13 @@
+/home/web-developer/Documents/Learn-Rust/Rust_MYSQL_Database/target/debug/deps/url-2e0869ce6370913a.rmeta: /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/lib.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/host.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/origin.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/parser.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/path_segments.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/query_encoding.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/slicing.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/form_urlencoded.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/quirks.rs
+
+/home/web-developer/Documents/Learn-Rust/Rust_MYSQL_Database/target/debug/deps/url-2e0869ce6370913a.d: /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/lib.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/host.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/origin.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/parser.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/path_segments.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/query_encoding.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/slicing.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/form_urlencoded.rs /home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/quirks.rs
+
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/lib.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/host.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/origin.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/parser.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/path_segments.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/query_encoding.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/slicing.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/form_urlencoded.rs:
+/home/web-developer/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/quirks.rs:
