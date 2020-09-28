@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=d:\Learn-Rust\Curd_App_With_MYSQL\target\rls\debug\build\typenum-28f98d028fa98396\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=d:\Learn-Rust\Curd_App_With_MYSQL\target\rls\debug\build\typenum-28f98d028fa98396\out\op.rs

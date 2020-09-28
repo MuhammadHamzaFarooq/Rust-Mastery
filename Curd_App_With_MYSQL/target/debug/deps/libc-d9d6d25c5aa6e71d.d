@@ -1,0 +1,11 @@
+D:\Learn-Rust\Curd_App_With_MYSQL\target\debug\deps\libc-d9d6d25c5aa6e71d.rmeta: C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\lib.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\macros.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\fixed_width_ints.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\windows\mod.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\windows\msvc.rs
+
+D:\Learn-Rust\Curd_App_With_MYSQL\target\debug\deps\liblibc-d9d6d25c5aa6e71d.rlib: C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\lib.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\macros.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\fixed_width_ints.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\windows\mod.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\windows\msvc.rs
+
+D:\Learn-Rust\Curd_App_With_MYSQL\target\debug\deps\libc-d9d6d25c5aa6e71d.d: C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\lib.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\macros.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\fixed_width_ints.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\windows\mod.rs C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\windows\msvc.rs
+
+C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\lib.rs:
+C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\macros.rs:
+C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\fixed_width_ints.rs:
+C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\windows\mod.rs:
+C:\Users\Web\ \ Developer\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.77\src\windows\msvc.rs:
