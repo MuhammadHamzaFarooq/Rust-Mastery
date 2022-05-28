@@ -1,11 +1,11 @@
 # Compelete Master In Rust-Programming
 ## Topic 
 ### 1- Rust Core Connecpt
-   a-Basic Syntax 
+   a => Basic Syntax 
    
-   b-struct , enum , hash-Map , OwnerShip ,Colletions etc ..
+   b => struct , enum , hash-Map , OwnerShip ,Colletions etc ..
    
-   c-Error Handling , Multi-Therading 
+   c =>Error Handling , Multi-Therading 
    
 ### 2- Small and intermediate Program in rust 
 
